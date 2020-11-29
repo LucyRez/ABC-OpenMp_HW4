@@ -1,0 +1,6 @@
+﻿  TreasureIsland_Openmp.cpp
+C:\Users\Люда\Desktop\HSE\ABC\hw4\TreasureIsland_Openmp\TreasureIsland_Openmp\TreasureIsland_Openmp.cpp(50,31): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Люда\Desktop\HSE\ABC\hw4\TreasureIsland_Openmp\TreasureIsland_Openmp\TreasureIsland_Openmp.cpp(163,12): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Люда\Desktop\HSE\ABC\hw4\TreasureIsland_Openmp\TreasureIsland_Openmp\TreasureIsland_Openmp.cpp(198,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Люда\Desktop\HSE\ABC\hw4\TreasureIsland_Openmp\TreasureIsland_Openmp\TreasureIsland_Openmp.cpp(268,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TreasureIsland_Openmp.vcxproj -> C:\Users\Люда\Desktop\HSE\ABC\hw4\TreasureIsland_Openmp\Debug\TreasureIsland_Openmp.exe
